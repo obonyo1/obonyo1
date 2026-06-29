@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F8F9FA,50:EEF1F4,100:DDE3EA&height=220&section=header&text=PAUL%20OBONYO&fontSize=48&fontColor=2F3E46&fontAlignY=38&desc=Machine%20Learning%20•%20Cloud%20Computing%20•%20Systems%20Engineering&descAlignY=60&descColor=5E81AC"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F8F9FA,50:EEF1F4,100:DDE3EA&height=220&section=header&text=PAUL%20OBONYO&fontSize=48&fontColor=2F3E46&fontAlignY=38&desc=Machine%20Learning%20•%20Applications%20Development%20•%20Systems%20Engineering&descAlignY=60&descColor=5E81AC"/>
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1400&color=5E81AC&center=true&vCenter=true&width=850&lines=Building+intelligent+software+for+real-world+communities;Machine+Learning+%7C+Cloud+Computing+%7C+Systems+Engineering;Researching+Speech+AI+for+Low-Resource+Languages"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1400&color=5E81AC&center=true&vCenter=true&width=850&lines=Building+intelligent+software+for+real-world+communities;Machine+Learning+%7C+Applications+Development+%7C+Systems+Engineering;Researching+Speech+AI+for+Low-Resource+Languages"/>
 </p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/paul-rapando)
